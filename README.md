@@ -1,4 +1,4 @@
-# senha-em-c
-sistema de senha criado em c 
-senha correta:"jp"
+# password-in-c
+Password system created in C
+Correct password: 'jp
 
